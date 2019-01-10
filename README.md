@@ -4,9 +4,8 @@
 
 2. Student will add PM as collaborator
 
-   **on GitHub:**
-
-   _Settings_ -> _Collaborators_ -> _Add Collaborator (use your PM's handle)_</br>
+   **on GitHub:**  
+   _`Settings`_ -> _`Collaborators`_ -> _`Add Collaborator` (use your PM's handle)_</br>
    _(I'd suggest grabbing the invite tag and DM it to your PM on Slack at this point)_
 
 3. Student then will Clone Repo
@@ -24,16 +23,15 @@
 
     `git push origin firstname-lastname`
 
-    **on GitHub:**
+    **on GitHub:**  
+    `Compare & Pull Request` -> `Base: YOUR MASTER` (Not the Lambda Master)  
+     compare fork: **`YOUR FORK`**
 
-    Compare & Pull Request -> Base: YOUR MASTER (Not the Lambda Master)  
-     compare fork: YOUR FORK
-
-    Then click on _Reviewers_. If your PM has accepted your invite, then you should be able to select them here. If not, then they haven't accepted the invite, and come back later...
-
-6)  Student will add their PM as a reviewer on the PR
+6.  Student will add their PM as a reviewer on the PR
     PM then will count the HW as done by merging the HW back into master "STUDENT FORK".
 
-    On the _'Open a Pull Request'_ page click on _Reviewers_. If your PM has accepted your invite, then you should be able to select them here. If not, then they haven't accepted the invite, and come back later...
+    On the _'`Open a Pull Request`'_ page click on _`Reviewers`_. If your PM has accepted your invite, then you should be able to select them here. If not, then they haven't accepted the invite, and come back later...
+
+    **Your PM** will merge the work into **YOUR** Master fork when they have reviewed and approved it.
 
     Your PM will merge the work into your Master fork when they have reviewed and approved it.
